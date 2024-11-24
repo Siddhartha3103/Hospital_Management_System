@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Reports>
+    <Report>
+        <PatientID>kunal</PatientID>
+        <Details>recovering from stress</Details>
+    </Report>
+    <Report>
+        <PatientID>kunal</PatientID>
+        <Details>too much stress due to recent quiz</Details>
+    </Report>
+</Reports>

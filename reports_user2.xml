@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Reports>
+                
+    
+    
+    <Report>
+                                
+        
+        
+        <PatientID>asdasd</PatientID>
+                                
+        
+        
+        <Details>asdasd</Details>
+                            
+    
+    
+    </Report>
+            
+    
+    
+    <Report>
+                        
+        
+        <PatientID>aasdasd</PatientID>
+                        
+        
+        <Details>asdasd</Details>
+                    
+    
+    </Report>
+        
+    
+    <Report>
+                
+        <PatientID>asdfgre</PatientID>
+                
+        <Details>tghrthgr</Details>
+            
+    </Report>
+    
+    <Report>
+        <PatientID>adsffdf</PatientID>
+        <Details>asdasd</Details>
+    </Report>
+</Reports>

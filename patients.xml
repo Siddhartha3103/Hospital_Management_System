@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Patients>
+        
+    <Patient>
+                
+        <Name>Kunal</Name>
+                
+        <Age>18</Age>
+                
+        <Contact>7882345767</Contact>
+                
+        <Disease>typhoid, mental stress</Disease>
+                
+        <Username>admin</Username>
+            
+    </Patient>
+    
+    <Patient>
+        <Name>Parth</Name>
+        <Age>18</Age>
+        <Contact>787378377889</Contact>
+        <Disease>Cold and cough</Disease>
+        <Username>admin</Username>
+    </Patient>
+</Patients>

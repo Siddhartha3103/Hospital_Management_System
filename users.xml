@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+                 
+
+    
+    
+    <User>
+                        
+        
+        <Username>admin</Username>
+                        
+        
+        <Password>12345</Password>
+                    
+    
+    </User>
+        
+    
+    <User>
+                
+        <Username>kunal</Username>
+                
+        <Password>aaa</Password>
+            
+    </User>
+    
+    <User>
+        <Username>parth</Username>
+        <Password>pp</Password>
+    </User>
+</Users>

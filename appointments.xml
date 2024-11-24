@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Appointments>
+        
+
+    <Appointment>
+        <Username>admin</Username>
+        <Patient>Kunal</Patient>
+        <Doctor>Sankalp</Doctor>
+        <Date>28 Nov</Date>
+    </Appointment>
+
+
+    <Appointment>
+        <Username>admin</Username>
+        <Patient>Parth</Patient>
+        <Doctor>Sankalp</Doctor>
+        <Date>27 Nov</Date>
+    </Appointment>
+
+    <Appointment>
+        <Username>admin</Username>
+        <Patient>Kunal</Patient>
+        <Doctor>Sankalp</Doctor>
+        <Date>26 Nov</Date>
+    </Appointment>
+</Appointments>

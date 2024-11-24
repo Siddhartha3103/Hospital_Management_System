@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Doctors>
+            
+
+    
+    <Doctor>
+                
+        <Name>Sankalp</Name>
+                
+        <Specialization>Physiotherapist</Specialization>
+                
+        <Contact>8989898989</Contact>
+            
+    </Doctor>
+    
+    <Doctor>
+        <Name>Sid</Name>
+        <Specialization>Surgeon</Specialization>
+        <Contact>8989898989</Contact>
+    </Doctor>
+</Doctors>

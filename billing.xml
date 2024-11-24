@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bills>
+                
+
+    
+    
+    <Bill>
+                        
+        
+        <Username>kunal</Username>
+                        
+        
+        <PatientID>kunal</PatientID>
+                        
+        
+        <Amount>10000</Amount>
+                        
+        
+        <Date>21 Nov</Date>
+                    
+    
+    </Bill>
+        
+    
+    <Bill>
+                
+        <Username>parth</Username>
+                
+        <PatientID>parth</PatientID>
+                
+        <Amount>222</Amount>
+                
+        <Date>22 Nov</Date>
+            
+    </Bill>
+    
+    
+</Bills>

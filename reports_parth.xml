@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Reports>
+            
+    
+    <Report>
+                        
+        
+        
+        <PatientID>parth</PatientID>
+        <Details>only cough</Details>
+    
+    
+    </Report>
+        
+    
+    <Report>
+                
+        <PatientID>parth</PatientID>
+                
+        <Details>cough and cold and no fever</Details>
+            
+    </Report>
+    
+    <Report>
+        <PatientID>parth</PatientID>
+        <Details>severe cough and cold and also fever</Details>
+    </Report>
+</Reports>
